@@ -1,4 +1,4 @@
-# plot1.R 
+# plot2.R 
 # author: Ted M
 # date: Sep 11, 2016
 # title: Coursera Exploratory Data Analysis Week 4 exercise, plot 1
